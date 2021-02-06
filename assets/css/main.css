@@ -3232,7 +3232,7 @@ input, select, textarea {
 				margin: 0 0 0 3em;
 			}
 
-			.spotlight2:nth-child(2n) .content {
+			.spotlight2:nth-child(2n) .content2 {
 				text-align: right;
 			}
 
@@ -3259,7 +3259,7 @@ input, select, textarea {
 
 			.spotlight2 .image2 {
 				width: 100%;
-				max-width: 100%;
+				max-width: 60%;
 				margin: 0 0 2em 0 !important;
 			}
 
