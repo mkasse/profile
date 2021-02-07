@@ -2558,17 +2558,20 @@ input, select, textarea {
 				.wrapper.style3-alt .icon.major:before {
 					color: #953d75;
 				}
-/* Image */
+/* Image page2 */
 
 	.image {
-		border-radius: 0.25em;
+                width : 200px;
+                heigth : 150px;
 		border: 0;
 		display: inline-block;
 		position: relative;
+		overflow: hidden;
 	}
 
 		.image img {
-			border-radius: 0.25em;
+			width : 200px;
+                        height : 150px;
 			display: block;
 		}
 
@@ -2598,7 +2601,7 @@ input, select, textarea {
 			width: 100%;
 		}
 
-			.image.fit img {
+			.image2.fit img {
 				width: 100%;
 			}
 
@@ -2611,63 +2614,7 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
-/* Image page2 */
-
-	.image2 {
-                width : 200px;
-                heigth : 150px;
-		border: 0;
-		display: inline-block;
-		position: relative;
-		overflow: hidden;
-	}
-
-		.image2 img {
-			width : 200px;
-                        height : 150px;
-			display: block;
-		}
-
-		.image2.left, .image.right {
-			max-width: 40%;
-		}
-
-			.image.left img, .image.right img {
-				width: 100%;
-			}
-
-		.image2.left {
-			float: left;
-			margin: 0 1.5em 1em 0;
-			top: 0.25em;
-		}
-
-		.image2.right {
-			float: right;
-			margin: 0 0 1em 1.5em;
-			top: 0.25em;
-		}
-
-		.image2.fit {
-			display: block;
-			margin: 0 0 2em 0;
-			width: 100%;
-		}
-
-			.image2.fit img {
-				width: 100%;
-			}
-
-		.image2.main {
-			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
-		}
-
-			.image.main img {
-				width: 100%;
-			}
-	.image2 {
+	.image {
 		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
 	}
 /* List */
