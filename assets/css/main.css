@@ -2616,7 +2616,7 @@ input, select, textarea {
 /* Image page2 */
 
 	.image2 {
-		border-radius: 100px;
+		border-radius: 600px;
 		border: 0;
 		display: inline-block;
 		position: relative;
@@ -2624,7 +2624,7 @@ input, select, textarea {
 	}
 
 		.image2 img {
-			border-radius: 100px ;
+			border-radius: 600px ;
 			display: block;
 		}
 
