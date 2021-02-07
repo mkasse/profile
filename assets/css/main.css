@@ -3205,7 +3205,7 @@ input, select, textarea {
 		.spotlight2 .image2 {
 			width: 30%;
 			border-radius: 0;
-			margin: 0 3em 0 0;
+			margin: 0 3em 3em 0;
 			display: block;
 		}
 
@@ -3216,7 +3216,7 @@ input, select, textarea {
 			}
 
 		.spotlight2 .content2 {
-			width: 50%;
+			width: 40%;
 		}
 
 			.spotlight2 .content2 > :last-child {
