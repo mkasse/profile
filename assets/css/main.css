@@ -2631,7 +2631,7 @@ input, select, textarea {
 		}
 
 		.image2.left, .image2.right {
-			max-width: 30%;
+			max-width: 40%;
 		}
 
 			.image2.left img, .image2.right img {
@@ -2669,7 +2669,9 @@ input, select, textarea {
 			.image2.main img {
 				width: 100%;
 			}
-
+	.image2 {
+		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
+	}
 /* List */
 
 	ol {
@@ -3204,19 +3206,19 @@ input, select, textarea {
 
 		.spotlight2 .image2 {
 			width: 30%;
-			border-radius: 0;
+			/*border-radius: 100%;*/
 			margin: 0 3em 3em 0;
 			display: block;
 		}
 
 			.spotlight2 .image2 img2 {
 				display: block;
-				border-radius: 0;
+				/*border-radius: 100%;*/
 				width: 100%;
 			}
 
 		.spotlight2 .content2 {
-			width: 40%;
+			width: 70%;
 		}
 
 			.spotlight2 .content2 > :last-child {
@@ -3260,13 +3262,13 @@ input, select, textarea {
 		}
 
 			.spotlight2 .image2 {
-				width: 30%;
-				max-width: 30%;
+				width: 100%;
+				max-width: 60%;
 				margin: 0 0 2em 0 !important;
 			}
 
 			.spotlight2 .content2 {
-				width: 70%;
+				width: 100%;
 				text-align: left !important;
 			}
 
