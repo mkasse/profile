@@ -3258,13 +3258,13 @@ input, select, textarea {
 		}
 
 			.spotlight2 .image2 {
-				width: 100%;
+				width: 30%;
 				max-width: 60%;
 				margin: 0 0 2em 0 !important;
 			}
 
 			.spotlight2 .content2 {
-				width: 100%;
+				width: 70%;
 				text-align: center !important;
 			}
 
