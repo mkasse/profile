@@ -2631,7 +2631,7 @@ input, select, textarea {
 		}
 
 		.image2.left, .image2.right {
-			max-width: 40%;
+			max-width: 30%;
 		}
 
 			.image2.left img, .image2.right img {
@@ -3261,13 +3261,13 @@ input, select, textarea {
 
 			.spotlight2 .image2 {
 				width: 30%;
-				max-width: 60%;
+				max-width: 30%;
 				margin: 0 0 2em 0 !important;
 			}
 
 			.spotlight2 .content2 {
 				width: 70%;
-				text-align: center !important;
+				text-align: left !important;
 			}
 
 	}
