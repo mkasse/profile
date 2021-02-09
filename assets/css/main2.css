@@ -3004,8 +3004,8 @@ input, select, textarea {
 	}
 
 		.spotlight .imageAuto {
-			width: auto;
-			height:auto;
+			width: 150px;
+			height:200px;
 			margin: 0 3em 3em 0;
 			display: block;
 		}
